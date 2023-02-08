@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ChallengeProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{452AF829-19CD-4AD1-9B53-7D58222902A4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ChallengeProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ChallengeProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4298B87D-E92E-4A9F-8443-4140EF473BFF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ChallengeProject">
+      <UniqueIdentifier>{13B79785-FE62-4E4B-B3BC-78C95F05BB85}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ChallengeProject\ChallengeProject.Build.cs">
+      <Filter>Source\ChallengeProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ChallengeProject\ChallengeProject.cpp">
+      <Filter>Source\ChallengeProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ChallengeProject\ChallengeProject.h">
+      <Filter>Source\ChallengeProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ChallengeProject\ChallengeProjectGameModeBase.cpp">
+      <Filter>Source\ChallengeProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ChallengeProject\ChallengeProjectGameModeBase.h">
+      <Filter>Source\ChallengeProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ChallengeProject\MovingSphere.cpp">
+      <Filter>Source\ChallengeProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ChallengeProject\MovingSphere.h">
+      <Filter>Source\ChallengeProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ChallengeProject\SphereController.cpp">
+      <Filter>Source\ChallengeProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ChallengeProject\SphereController.h">
+      <Filter>Source\ChallengeProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

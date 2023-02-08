@@ -1,0 +1,20 @@
+C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Development\ChallengeProject\Definitions.ChallengeProject.h
+C:\Unreal Project\ChallengeProject\Source\ChallengeProject\MovingSphere.h
+C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Inc\ChallengeProject\MovingSphere.generated.h
+C:\Unreal Project\ChallengeProject\Source\ChallengeProject\ChallengeProjectGameModeBase.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Inc\ChallengeProject\ChallengeProjectGameModeBase.generated.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Unreal Project\ChallengeProject\Source\ChallengeProject\SphereController.h
+C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Inc\ChallengeProject\SphereController.generated.h

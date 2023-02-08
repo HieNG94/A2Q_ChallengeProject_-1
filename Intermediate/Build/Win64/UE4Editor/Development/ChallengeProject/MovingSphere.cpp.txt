@@ -1,0 +1,18 @@
+C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Development\ChallengeProject\Definitions.ChallengeProject.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+C:\UnrealEngine-4.27.2\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
+C:\Unreal Project\ChallengeProject\Source\ChallengeProject\MovingSphere.h
+C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Inc\ChallengeProject\MovingSphere.generated.h

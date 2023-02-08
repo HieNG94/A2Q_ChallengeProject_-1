@@ -1,0 +1,2 @@
+C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Development\ChallengeProject\Definitions.ChallengeProject.h
+C:\Unreal Project\ChallengeProject\Source\ChallengeProject\ChallengeProject.h

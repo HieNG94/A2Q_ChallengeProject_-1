@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ChallengeProject-0034.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Development\ChallengeProject\ChallengeProject.cpp.obj"
+"C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Development\ChallengeProject\ChallengeProjectGameModeBase.cpp.obj"
+"C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Development\ChallengeProject\MovingSphere.cpp.obj"
+"C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Development\ChallengeProject\SphereController.cpp.obj"
+"C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Development\ChallengeProject\ChallengeProject.init.gen.cpp.obj"
+"C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Development\ChallengeProject\ChallengeProjectGameModeBase.gen.cpp.obj"
+"C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Development\ChallengeProject\MovingSphere.gen.cpp.obj"
+"C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Development\ChallengeProject\SphereController.gen.cpp.obj"
+"C:\UnrealEngine-4.27.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Unreal Project\ChallengeProject\Intermediate\Build\Win64\UE4Editor\Development\ChallengeProject\UE4Editor-ChallengeProject-0034.lib"

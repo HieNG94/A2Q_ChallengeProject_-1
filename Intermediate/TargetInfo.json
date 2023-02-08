@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ChallengeProject",
+			"Path": "C:\\Unreal Project\\ChallengeProject\\Source\\ChallengeProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ChallengeProjectEditor",
+			"Path": "C:\\Unreal Project\\ChallengeProject\\Source\\ChallengeProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

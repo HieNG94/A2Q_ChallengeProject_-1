@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Project\\ChallengeProject\\Source\\ChallengeProject\\ChallengeProject.Build.cs",
+		"C:\\Unreal Project\\ChallengeProject\\Source\\ChallengeProject.Target.cs",
+		"C:\\Unreal Project\\ChallengeProject\\Source\\ChallengeProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
